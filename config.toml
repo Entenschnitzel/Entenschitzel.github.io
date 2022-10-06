@@ -1,4 +1,4 @@
-baseURL = 'https://Entenschnitzel.github.io'
+baseURL = 'https://Entenschitzel.github.io'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
