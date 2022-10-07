@@ -1,4 +1,4 @@
 baseURL = 'https://Entenschnitzel.github.io'
-languageCode = 'en-us'
-title = 'Max Website'
+languageCode = 'de-de'
+title = 'Max Webseite'
 theme = "ananke"
