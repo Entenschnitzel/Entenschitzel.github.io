@@ -2,8 +2,8 @@ baseURL = 'https://Entenschnitzel.github.io'
 languageCode = 'de-de'
 title = 'Max Webseite'
 theme = "ananke"
-[params]
 
+[params]
 body_classes = "avenir bg-near-black"
 text_color = "white" 
 background_color_class = "bg-near-black"
