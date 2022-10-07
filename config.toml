@@ -2,3 +2,9 @@ baseURL = 'https://Entenschnitzel.github.io'
 languageCode = 'de-de'
 title = 'Max Webseite'
 theme = "ananke"
+[params]
+
+body_classes = "avenir bg-near-black"
+text_color = "white" 
+background_color_class = "bg-near-black"
+featured_image = "/static/images/gohugo-default-sample-hero-image.jpg" 
