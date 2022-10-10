@@ -1,10 +1,16 @@
 baseURL = 'https://Entenschnitzel.github.io'
 languageCode = 'de-de'
 title = 'Max Webseite'
-theme = "ananke"
-
+theme = "hugo-theme-hello-friend-2.1.0"
+deafaultContentlanguage = "de"
 [params]
 body_classes = "avenir bg-near-black"
 text_color = "white" 
 background_color_class = "bg-near-black"
 featured_image = "/static/images/gohugo-default-sample-hero-image.jpg" 
+showReadingTime = "false"
+
+[languages]
+ [languages.en]
+ [languages.de]
+  readmore = "Mehr Anzeigen" 
