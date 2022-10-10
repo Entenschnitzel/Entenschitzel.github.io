@@ -1,16 +1,28 @@
 baseURL = 'https://Entenschnitzel.github.io'
 languageCode = 'de-de'
 title = 'Max Webseite'
-theme = "hugo-theme-hello-friend-2.1.0"
-deafaultContentlanguage = "de"
+theme = "ananke"
+defaultContentlanguage = "de"
+
 [params]
 body_classes = "avenir bg-near-black"
-text_color = "white" 
+text_color = "white"
 background_color_class = "bg-near-black"
-featured_image = "/static/images/gohugo-default-sample-hero-image.jpg" 
+featured_image = "/static/images/gohugo-default-sample-hero-image.jpg"
 showReadingTime = "false"
 
 [languages]
- [languages.en]
  [languages.de]
-  readmore = "Mehr Anzeigen" 
+     title = "Max Webseite"
+    subtitle = "Praktikums Projekt"
+    keywords = ""
+    copyright = ""
+    menuMore = "Mehr Anzeigen"
+    writtenBy = "von"
+    readMore = "weiterlesen"
+    readOtherPosts = "andere Einträge"
+    newerPosts = "neue Einträge"
+    olderPosts = "alte Einträge"
+    minuteReadingTime = "minuten gelesen"
+    dateFormatSingle = "02.01.2006"
+    dateFormatList = "02.01.2006"
