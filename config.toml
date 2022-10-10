@@ -5,9 +5,9 @@ theme = "ananke"
 defaultContentlanguage = "de"
 
 [params]
-body_classes = "avenir bg-near-black"
+body_classes = "avenir bg-white"
 text_color = "white"
-background_color_class = "bg-near-black"
+background_color_class = "bg-white"
 showReadingTime = "false"
 
 [languages]
