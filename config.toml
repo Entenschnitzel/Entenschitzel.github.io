@@ -12,7 +12,7 @@ showReadingTime = "false"
 
 [languages]
  [languages.de]
-     title = "Max Webseite"
+    title = "Webseiten mit gohugo Bauen"
     subtitle = "Praktikums Projekt"
     keywords = ""
     copyright = ""
