@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webseiten mit gohugo Bauen</title>
+    <link>https://Entenschnitzel.github.io/</link>
+    <description>Recent content on Webseiten mit gohugo Bauen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 10 Jun 2022 08:47:11 +0100</lastBuildDate><atom:link href="https://Entenschnitzel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Was ist gohugo</title>
+      <link>https://Entenschnitzel.github.io/posts/1_post/</link>
+      <pubDate>Fri, 10 Jun 2022 08:47:11 +0100</pubDate>
+      
+      <guid>https://Entenschnitzel.github.io/posts/1_post/</guid>
+      <description>gohugo ist eine Webseite die einem bei dem Bau eigender Webseiten hilft. Auf den ersen Blick erscheint alles Logisch und übersichtlich aber vieles wird nicht ausfürlich erklärt und beschrieben deswegen wird das hier gemacht. Gehe jetzt zum Abschnitt: &amp;ldquo;Die benötigten Programme“ um anzufangen.</description>
+    </item>
+    
+    <item>
+      <title>2. Die benötigten Programme</title>
+      <link>https://Entenschnitzel.github.io/posts/2_post/</link>
+      <pubDate>Fri, 10 Jun 2022 08:47:11 +0100</pubDate>
+      
+      <guid>https://Entenschnitzel.github.io/posts/2_post/</guid>
+      <description>Zuerst gehst du auf die Website gohugo. Dort gibt es unter dem Logo einen blau hervorgehoben tab: Quick Start. Nun installierst du dir hugo und Visual Studio Code. Wenn du mit der Installation der programme fertig bist, kannst du weiter zu macOS oder Windows gehen.</description>
+    </item>
+    
+    <item>
+      <title>3. macOS</title>
+      <link>https://Entenschnitzel.github.io/posts/3_post/</link>
+      <pubDate>Fri, 10 Jun 2022 08:47:11 +0100</pubDate>
+      
+      <guid>https://Entenschnitzel.github.io/posts/3_post/</guid>
+      <description>Wenn du hugo noch nicht installiert hast öffne jetzt den terminal und gehe zurück auf die gohugo webseite dort folgst du dem link bei quickstart und kopierst den den link der auf der webseite erscheint in den terminal und drückst enter danach befolgst du die schritte und schreibst wenn alles fertig ist: “brew install hugo“ dann lässt du alles laden und schreibt: “hugo version“. Jetzt geht der eigentliche Bau der Website los.</description>
+    </item>
+    
+    <item>
+      <title>3. Windows</title>
+      <link>https://Entenschnitzel.github.io/posts/4_post/</link>
+      <pubDate>Fri, 10 Jun 2022 08:47:11 +0100</pubDate>
+      
+      <guid>https://Entenschnitzel.github.io/posts/4_post/</guid>
+      <description>Folge dem link und gehe weiter runter zu Windows und folge der anleitung im Youtube Video</description>
+    </item>
+    
+    <item>
+      <title>Programmier Spiele</title>
+      <link>https://Entenschnitzel.github.io/posts/5_post/</link>
+      <pubDate>Fri, 10 Jun 2022 08:47:11 +0100</pubDate>
+      
+      <guid>https://Entenschnitzel.github.io/posts/5_post/</guid>
+      <description> Name Kurzbeschreibung Link JSRobot ist eine Webseite wo man von einem kleinem Roboter in Java skript eingeführt wird. link JSHero ist eine Webseite mit der man die Grundlagen von Java skript erklärt bekommt. link Crunchzilla ist eine Webseite wo gezeigt wird wie man formen erschaffen kann die sich seblstständig bewegen. link </description>
+    </item>
+    
+  </channel>
+</rss>
