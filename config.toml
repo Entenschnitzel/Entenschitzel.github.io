@@ -1,6 +1,6 @@
 baseURL = 'https://Entenschnitzel.github.io'
 languageCode = 'de-de'
-title = 'Webseiten mit gohugo Bauen'
+title = 'Praktikums Projekt'
 theme = "ananke"
 defaultContentlanguage = "de"
 
@@ -10,10 +10,11 @@ text_color = "black"
 background_color_class = "bg-white"
 showReadingTime = "false"
 custom_css = ["custom.css"]
+github = "https://github.com/Entenschnitzel"
 
 [languages]
  [languages.de]
-    title = "Webseiten mit gohugo Bauen"
+    title = "Praktikums Projekt"
     subtitle = "Praktikums Projekt"
     keywords = ""
     copyright = ""
