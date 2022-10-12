@@ -1,7 +1,7 @@
 ---
-title: "1. Was ist gohugo"
+title: "1. Was ist hugo"
 date: 2022-06-10T08:47:11+01:00
 draft: false
 featured_image: "/images/hugo2.png"
 ---
-[gohugo](https://gohugo.io/) ist eine Webseite die einem bei dem Bau eigener Webseiten hilft. Auf den ersen Blick erscheint alles Logisch und übersichtlich aber vieles wird nicht ausfürlich erklärt und beschrieben deswegen wird das hier gemacht. Gehe jetzt zum Abschnitt: "Die benötigten Programme“ um anzufangen.
+[Hugo](https://gohugo.io/) ist ein in Go (eine Programmiersprache) geschriebener Generator für statische Websites (diese Webseite ist zum Beispiel auch Statisch). Er wurde ursprünglich von Steve Francia als Open-Source-Projekt im Jahr 2013 entwickelt. Hugo ist vor allem für seine Geschwindigkeit bekannt, und auf der offiziellen Website von Hugo heißt es, es sei "das schnellste Framework der Welt für die Erstellung vonWebsites".
