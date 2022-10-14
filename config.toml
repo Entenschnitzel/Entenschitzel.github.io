@@ -12,6 +12,7 @@ showReadingTime = "false"
 custom_css = ["custom.css"]
 github = "https://github.com/Entenschnitzel"
 recent_posts_number = 7
+favicon = "/images/icon.png"
 
 [languages]
  [languages.de]
