@@ -9,6 +9,6 @@ Die [Raspberry PI](https://www.google.com/search?q=raspberry+pi&sxsrf=ALiCzsYCW_
 
 Für eine Raspberry PI benötigt man: eine Tastatur, eine Maus, einen Monitor, ein Ladekabel, und eine speicher karte. 
 
-Obwohl die Raspberry extrem langsam läuft ist sie immernoch schneller als Jakobs Laptop.
+**Obwohl die Raspberry extrem langsam läuft ist sie immernoch schneller als Jakobs Laptop.**
 
  Im Folgenden [Link](https://github.com/Entenschnitzel/Skripte/blob/master/fotofalle.py) ist eine Fotofalle die wenn der Bewegungs Sensor ausgelöst wird ein Foto macht wo Datum und Uhrzeit angezeigt wird.
